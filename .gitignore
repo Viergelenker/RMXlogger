@@ -57,4 +57,4 @@ README.html
 .idea/*
 local.properties
 local.properties
-Users/Julien/Library/Android/sdk/.knownPackages
+out/production/*
